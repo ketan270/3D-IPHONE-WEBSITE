@@ -92,5 +92,4 @@ const HowItWorks = () => {
     </section>
   )
 }
-
 export default HowItWorks
